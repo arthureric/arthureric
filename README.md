@@ -2,7 +2,7 @@
 
 Hello, GitHub! 👋
 
-I'm <Eric Arthur>, a student at Brigham Young University-Idaho interested in <Software Development, Computer Science, data science, web development, machine learning, Computer Programmer ...> with a strong passion for building modern web applications and solving real-world problems through technology. I also work to continuously improving my skills by creating projects and exploring new technologies.
+I'm Eric Arthur, a student at Brigham Young University-Idaho interested in Software Development, Computer Science, data science, web development, machine learning, Computer Programmer with a strong passion for building modern web applications and solving real-world problems through technology. I also work to continuously improving my skills by creating projects and exploring new technologies.
 
 I enjoy learning new programming concepts, contributing to open-source projects, and developing software that is efficient, scalable, and user-friendly.
 
@@ -28,10 +28,10 @@ Welcome to my GitHub profile!
 ## Let's Connect!
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/arthureric/) profile
-- GitHub: https://github.com/arthureric  
+- My [GitHub](https://github.com/arthureric) profile
 
 ## Quote
 
-"Code is more than syntax—it's about creating solutions that make a difference."
+_"Code is more than syntax—it's about creating solutions that make a difference."_
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
